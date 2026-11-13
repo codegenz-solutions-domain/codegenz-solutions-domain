@@ -1,78 +1,143 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B0A,50:17251B,100:080B0A&text=CODEGENZ%20SOLUTIONS&fontSize=43&fontColor=D4AF72&fontAlignY=40&desc=ENGINEERING%20DIGITAL%20EXCELLENCE&descSize=13&descAlignY=60&descColor=F5F3ED" width="100%" />
+<img src="./assets/codegenz-banner.png" width="100%" alt="CodeGenz Solutions Banner"/>
+
+<br/><br/>
+
+<img src="./assets/codegenz-logo.png" width="170" alt="CodeGenz Solutions Logo"/>
+
+# CODEGENZ SOLUTIONS
+
+### Innovate. Integrate. Elevate.
+
+**Building Digital Solutions for a Smarter Tomorrow.**
 
 <br/>
 
-### INNOVATION · ENGINEERING · TRANSFORMATION
-
-**We transform ideas into intelligent digital experiences.**
-
-<br/>
-
-<a href="https://codegenzsolutions.com">
-<img src="https://img.shields.io/badge/WEBSITE-Visit%20Our%20Website-C6A15B?style=for-the-badge&labelColor=080B0A" />
+<a href="https://codegenzsolutions.vercel.app/">
+  <img src="https://img.shields.io/badge/Official_Website-Visit_Now-0756D8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 <a href="https://github.com/codegenz-solutions-domain">
-<img src="https://img.shields.io/badge/GITHUB-Explore%20Projects-D4AF72?style=for-the-badge&labelColor=080B0A" />
+  <img src="https://img.shields.io/badge/GitHub-Explore_Projects-08265C?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=20&duration=3000&pause=1000&color=0756D8&center=true&vCenter=true&width=650&lines=Website+Development;Web+%26+Mobile+Applications;Custom+Software+Solutions;E-commerce+%26+Shopify;UI%2FUX+Design;Product+Development" />
 
 </div>
 
 ---
 
-## 01 / WHO WE ARE
+# 01. WHO WE ARE
 
-**CodeGenz Solutions** is a technology-driven software development company focused on building modern, scalable and innovative digital solutions.
+**CodeGenz Solutions** is a technology-driven digital solutions company focused on creating modern, scalable and innovative software products.
 
-We combine creativity, engineering and technology to help businesses transform their ideas into powerful digital products.
+We help startups, businesses and organizations transform their ideas into meaningful digital experiences through technology, creativity and engineering.
 
-Our approach is built around quality, innovation, performance and long-term digital growth.
+From business websites to complex web applications, we build solutions that solve real-world problems and support long-term business growth.
+
+### Our Vision
+
+To become a trusted technology partner for businesses by delivering innovative, reliable and future-ready digital solutions.
+
+### Our Mission
+
+- Deliver high-quality digital products.
+- Simplify complex business processes through technology.
+- Create meaningful user experiences.
+- Build scalable and secure applications.
+- Help businesses grow through digital transformation.
 
 ---
 
-## 02 / WHAT WE BUILD
+# 02. WHAT WE DO
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ◈ Web Development
-Modern, responsive and high-performance websites designed for businesses.
+### 🌐 Website Development
+
+Modern, responsive and high-performance websites.
+
+- Corporate Websites
+- Business Websites
+- Portfolio Websites
+- Landing Pages
+- Educational Websites
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ◈ Web Applications
-Scalable and intelligent web applications tailored to business requirements.
+### 📱 Web & Mobile Applications
+
+Powerful applications designed for modern businesses.
+
+- Business Applications
+- Management Systems
+- Customer Portals
+- Progressive Web Applications
+- Custom Application Development
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-### ◈ E-Commerce Solutions
-Powerful online shopping experiences with seamless functionality.
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Custom Solutions
+
+Technology solutions designed around specific business needs.
+
+- Enterprise Applications
+- Automation Systems
+- Workflow Management
+- Data Management Systems
+- Industry-Based Solutions
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ◈ Custom Software
-Business-focused software solutions designed around specific workflows.
+### 🛒 E-commerce & Shopify
+
+Complete online commerce experiences.
+
+- Shopify Store Development
+- E-commerce Websites
+- Product Management
+- Payment Integration
+- Store Customization
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-### ◈ UI/UX Design
-Beautiful, intuitive and user-centric digital experiences.
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 UI/UX Design
+
+User-focused and visually engaging digital experiences.
+
+- Website UI/UX
+- Application Design
+- Wireframing
+- Prototyping
+- Design Systems
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ◈ Business Automation
-Smart digital systems that simplify operations and improve productivity.
+### 🚀 Product Development
+
+From initial concepts to production-ready products.
+
+- Product Planning
+- MVP Development
+- SaaS Applications
+- API Development
+- Maintenance & Support
 
 </td>
 </tr>
@@ -80,79 +145,182 @@ Smart digital systems that simplify operations and improve productivity.
 
 ---
 
-## 03 / TECHNOLOGY ECOSYSTEM
+# 03. INDUSTRY-BASED SOLUTIONS
 
-<div align="center">
+We develop technology solutions for different business sectors.
 
-### FRONTEND
+| Industry | Digital Solutions |
+|---|---|
+| Education | School Management, Student Portals, Online Examination |
+| Healthcare | Appointment Systems, Patient Management |
+| Retail | Inventory Management, E-commerce |
+| Food & Catering | Order Management, Catering Management |
+| Manufacturing | Production Management, Process Automation |
+| Finance | Billing Systems, Financial Dashboards |
+| Travel & Tourism | Booking Platforms, Travel Management |
+| Real Estate | Property Management, Listing Platforms |
+| Logistics | Delivery Management, Tracking Systems |
+| Corporate | CRM, ERP, Business Automation |
 
+---
+
+# 04. TECHNOLOGY ECOSYSTEM
+
+We work with modern technologies to create scalable and reliable digital products.
+
+### FRONTEND DEVELOPMENT
+
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
+</p>
 
-### BACKEND
+### BACKEND DEVELOPMENT
 
+<p>
 <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
+</p>
 
-### DATABASE & TOOLS
+### DATABASE TECHNOLOGIES
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,figma" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" />
+</p>
+
+### TOOLS & PLATFORMS
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+</p>
+
+### E-COMMERCE
+
+<p>
+<img src="https://skillicons.dev/icons?i=shopify" />
+</p>
+
+---
+
+# 05. OUR DEVELOPMENT PROCESS
+
+We follow a structured development process to ensure quality and reliability.
+
+<table>
+<tr>
+<td align="center" width="16%">
+<h3>01</h3>
+<b>Discovery</b>
+<br/>
+Understanding requirements.
+</td>
+<td align="center" width="16%">
+<h3>02</h3>
+<b>Planning</b>
+<br/>
+Architecture and strategy.
+</td>
+<td align="center" width="16%">
+<h3>03</h3>
+<b>Design</b>
+<br/>
+UI/UX and prototyping.
+</td>
+<td align="center" width="16%">
+<h3>04</h3>
+<b>Development</b>
+<br/>
+Engineering solutions.
+</td>
+<td align="center" width="16%">
+<h3>05</h3>
+<b>Testing</b>
+<br/>
+Quality assurance.
+</td>
+<td align="center" width="16%">
+<h3>06</h3>
+<b>Deployment</b>
+<br/>
+Product delivery.
+</td>
+</tr>
+</table>
+
+---
+
+# 06. OUR PROJECTS
+
+We continuously explore and develop solutions across different industries.
+
+Our development portfolio includes:
+
+- Business Management Systems
+- Educational Platforms
+- E-commerce Applications
+- Industry Automation Systems
+- Custom Web Applications
+- Digital Business Platforms
+
+Explore our public repositories to discover our development work.
+
+<div align="center">
+
+<a href="https://github.com/codegenz-solutions-domain?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0756D8?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 04 / OUR DEVELOPMENT APPROACH
+# 07. WHY CODEGENZ SOLUTIONS?
 
-| PHASE | FOCUS |
-|:---|:---|
-| 01 — Discovery | Understanding business requirements |
-| 02 — Strategy | Planning architecture and technology |
-| 03 — Design | Creating premium user experiences |
-| 04 — Development | Building scalable digital solutions |
-| 05 — Testing | Ensuring quality and performance |
-| 06 — Deployment | Delivering production-ready products |
-
----
-
-## 05 / FEATURED PROJECTS
-
-We build digital products and industry-focused solutions.
-
-Explore our repositories to discover our development work, technologies and implementations.
+| Our Strength | Our Approach |
+|---|---|
+| Innovation | Modern technology and creative thinking |
+| Quality | Clean, maintainable development |
+| Scalability | Solutions built for future growth |
+| User Experience | Intuitive and responsive interfaces |
+| Reliability | Structured testing and delivery |
+| Customization | Business-specific solutions |
 
 ---
 
-## 06 / OUR PHILOSOPHY
+# 08. LET'S BUILD SOMETHING GREAT
+
+Have an idea, project or business challenge?
+
+Let's turn your vision into a powerful digital solution.
 
 <div align="center">
 
-### THINK BEYOND LIMITS.
-### BUILD WITHOUT COMPROMISE.
+### HAVE A PROJECT IN MIND?
 
-*Every great solution begins with an idea.*
-
-**We engineer that idea into reality.**
-
-</div>
-
----
-
-## 07 / CONNECT WITH US
-
-<div align="center">
-
-**CODEGENZ SOLUTIONS**
-
-Engineering Digital Excellence.
+**Let's discuss how technology can transform your business.**
 
 <br/>
 
-<a href="https://codegenzsolutions.com">Website</a> &nbsp; ◆ &nbsp;
-<a href="https://github.com/codegenz-solutions-domain">GitHub</a>
+<a href="https://codegenzsolutions.vercel.app/">
+<img src="https://img.shields.io/badge/START_YOUR_PROJECT-0756D8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/codegenz-solutions-domain">
+<img src="https://img.shields.io/badge/CONNECT_ON_GITHUB-08265C?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-© 2026 CodeGenz Solutions. All Rights Reserved.
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:080B0A,50:17251B,100:080B0A" width="100%" />
+<img src="./assets/codegenz-logo.png" width="100"/>
+
+### CODEGENZ SOLUTIONS
+
+**Innovate. Integrate. Elevate.**
+
+Building Digital Solutions for a Smarter Tomorrow.
+
+<br/>
+
+© 2026 CodeGenz Solutions. All Rights Reserved.
 
 </div>
