@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/codegenz-banner.png" width="100%" alt="CodeGenz Solutions Banner"/>
+<img src="./0b390af3-ce5a-40fb-9787-4b4f7c51859e.png" width="100%" alt="CodeGenz Solutions Banner"/>
 
 <br/><br/>
 
-<img src="./assets/codegenz-logo.png" width="170" alt="CodeGenz Solutions Logo"/>
+<img src="./cgslogo.png" width="170" alt="CodeGenz Solutions Logo"/>
 
 # CODEGENZ SOLUTIONS
 
